@@ -1,11 +1,3 @@
-This repository contains a README file sample for Daytona Samples and the MIT License.
-
-It can be used as a template to create sample repositories that can be added into [Daytona](https://github.com/daytonaio/daytona).
-
-Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
-
-&nbsp;
-
 # Sample Festigo: Event Management Website <TS/NextJS>
 
 <h2 align="center">FESTIGO</h2>
